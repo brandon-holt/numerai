@@ -1,0 +1,2 @@
+# numerai
+Numerai competition submissions.
